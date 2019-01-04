@@ -15,7 +15,8 @@ body {
     display: none; }
 
   .headerlogo h1 {
-    text-align: center; }
+    text-align: center;
+    margin-top: 20px; }
 
   .sp_menu ul {
     text-align: center;
@@ -30,6 +31,7 @@ body {
     cursor: pointer; }
 
   .sp_menu_toggle {
+    display: none;
     background: #ff6d77; }
     .sp_menu_toggle li {
       height: 40px;
@@ -43,6 +45,9 @@ body {
       .sp_menu_toggle li a {
         color: #ffffff;
         text-decoration: none; }
+
+  .fukidashi-menu {
+    width: 100%; }
 
   li.sg {
     border-bottom: none; }
@@ -94,7 +99,7 @@ body {
     padding-bottom: 20px; }
     .deliver_box h1 {
       font-size: 2rem;
-      font-weight: 700;
+      font-weight: bold;
       color: #887f69; }
 
   .deliver_box p.a {
@@ -110,7 +115,7 @@ body {
     margin-top: 20px; }
     .payment_box h1 {
       font-size: 2rem;
-      font-weight: 700;
+      font-weight: bold;
       color: #887f69; }
 
   .payment_box p.b {

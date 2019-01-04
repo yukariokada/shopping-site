@@ -41,6 +41,7 @@ body {
 
     .headerlogo h1 {
         text-align: center;
+        margin-top:20px;
 
     }
 
@@ -64,7 +65,10 @@ body {
     }
 
 
+
+
     .sp_menu_toggle {
+        display:none; 
 
         background: #ff6d77;
         li {
@@ -87,6 +91,10 @@ body {
             }
         }
     }
+    
+     .fukidashi-menu{
+          width:100%;
+        }
 
     li.sg{
         border-bottom: none;
@@ -151,7 +159,7 @@ body {
 
         h1 {
             font-size: 2rem;
-            font-weight: 700;
+            font-weight:bold;
             color: #887f69;
         }
     }
@@ -173,7 +181,7 @@ body {
 
         h1 {
             font-size: 2rem;
-            font-weight: 700;
+            font-weight:bold;
             color: #887f69;
 
 
