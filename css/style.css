@@ -76,7 +76,7 @@ body {
 
   .owl-theme .owl-dots .owl-dot.active span,
   .owl-theme .owl-dots .owl-dot:hover span {
-    background: red; }
+    background: #9d1a2d; }
 
   .goods_box {
     width: 48%;
@@ -501,7 +501,7 @@ body {
 
   .owl-theme .owl-dots .owl-dot.active span,
   .owl-theme .owl-dots .owl-dot:hover span {
-    background: red; }
+    background: #9d1a2d; }
 
   .goods_image img {
     width: 100%; }
